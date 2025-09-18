@@ -1,16 +1,23 @@
-## Hi there 👋
+# Aaron Sit
+  **`Computer Science @ Mac/Game Developer`**
 
-<!--
-**aaronsit7/aaronsit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Skill Stack</h3>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,cs,java,py,unity)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronsit7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## Links
+
+- [**Contact**](mailto:aaronsit7@gmail.com)
+
+<a href="https://www.linkedin.com/in/aaron-sit-814b4027a" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/aaronsit/" target="blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
+
