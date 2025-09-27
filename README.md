@@ -5,10 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,blender,cs,java,py,unity)](https://skillicons.dev)
 
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronsit7&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Links
 
 - [**Contact**](mailto:aaronsit7@gmail.com)
