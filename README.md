@@ -1,5 +1,5 @@
 # Aaron Sit
-  **`Computer Science @ Mac/Game Developer`**
+  **`Computer Science @ McMaster University`**
 
 <h3 align="left">Skill Stack</h3>
 
