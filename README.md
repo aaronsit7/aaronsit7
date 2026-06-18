@@ -1,5 +1,5 @@
 # Aaron Sit
-  **`Computer Science @ McMaster University`**
+  **`Cyber Science @ TMU`**
 
 <h3 align="left">Skill Stack</h3>
 
